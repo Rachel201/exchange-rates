@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+  height:100vh ;
+  display: flex;
+  top:500px;
+  flex-direction: column
+
+}
+
+html{
+  background-color: #E4E9FD;
+  background-image: -webkit-linear-gradient(65deg, #b9bdbc 50%,  #807b7b 50%);
+  min-height: 1000px;
+  height:100% ;
+}
+
