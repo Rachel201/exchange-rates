@@ -1,6 +1,6 @@
 # Instructions
 
-you can see the solution in condsandbox :https://codesandbox.io/s/exchange-rates-j7xon3
+you can check out the solution in condsandbox :https://codesandbox.io/s/exchange-rates-j7xon3
 
 
 
